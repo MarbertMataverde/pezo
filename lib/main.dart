@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pezo/feature/login/view/view.dart';
+import 'package:pezo/features/login/view/view.dart';
 import 'package:pezo/responsive_layout.dart';
 
 Future<void> main() async {
