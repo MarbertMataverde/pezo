@@ -12,7 +12,7 @@ class HomeTablet extends StatelessWidget {
         elevation: 0,
         backgroundColor: Colors.transparent,
       ),
-      drawer: buildDrawer(),
+      drawer: buildDrawer(context: context),
       body: const Center(
         child: Text('Page Name'),
       ),
